@@ -4,7 +4,6 @@ Date Created: May 12, 2026
 Date Updated: May 19, 2026 */
 
 import java.util.Scanner;
-//import java.util.ArrayList;
 import java.util.HashMap;
 
 public class ProblemSet {
