@@ -115,16 +115,6 @@ public class ProblemSet {
 			}
 		} //shortest word
 
-		
-		// int totalWords = 0;
-
-		// for (int f = 0; f < sentenceWithout.length(); f++) {
-		// 	if (characters[f].matches(" ")) {
-		// 		totalWords++;
-		// 	}
-		// } //total words 
-		// totalWords = totalWords + 1; 
-
 		double wordLengths = 0;
 		for (int g = 0; g < words2.length; g++) {
 			wordLengths = wordLengths + words2[g].length();
