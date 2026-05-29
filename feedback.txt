@@ -1,0 +1,14 @@
+K(30%): 100
+I(30%): 89
+C(10%): 100
+A(30%): 90
+93.7%
+
+Great work!  Couple small things.
+Make sure that you are able to tell that multiple space don't make a new word ("hello   world" thinks there are 4 words.)
+Also make sure that if the string is empty that it doesn't cuase a problem (and make sure to check this after you have removed punctuation so your other functions don't crash).
+Make sure to include all punctuation, the assignment just gave examples of some.
+I would also suggest in the future when code to break up your code into functions a bit more.  
+You're creating code and it's point is to solve a problem (count the words for instance), 
+isolating this can make your life easier in the long run since it makes your main code easier to read, 
+and makes isolating what code needs to be changed when something doesn't work easier.
